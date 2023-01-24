@@ -7,7 +7,10 @@
 -Performing as Software Engineer :computer: in [Wizeline](https://www.wizeline.com/)
 
 📫 How to reach me: https://bit.ly/3ZR8FrP
-💬 Ask me about  
+
+💬 Ask me about ![java-icon](https://user-images.githubusercontent.com/54609461/214207276-b08e141b-f3a8-4464-bffb-50586ece43cb.png)
+  
+
 📘[Resume](https://github.com/edgar643/edgar643/files/10486104/CV.Edgar.Garcia.ENG.pdf)
 
 
