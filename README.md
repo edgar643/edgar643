@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Electronic Engineer Graduated :computer:👋
 📫 How to reach me: https://bit.ly/3ZR8FrP
 <!--
 **edgar643/edgar643** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
