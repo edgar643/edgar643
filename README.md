@@ -22,21 +22,24 @@
 
 💬 Ask me about Java
 
-
 📘[Resume](https://github.com/edgar643/edgar643/files/10486104/CV.Edgar.Garcia.ENG.pdf)
+
+Skills:
+
+- Java 11
+- Spring Boot
+- JavaScript
+- Angular 2
+- C, C++, C#
+- SQL, No SQL
+- Docker
+- AWS
+- Learning Python & Node JS
+
 
 
 <!--
 **edgar643/edgar643** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
