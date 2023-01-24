@@ -1,6 +1,7 @@
 ### Hi there👋 I'm Electronic Engineer Graduated
 -I'm performing as Software Engineer :computer:
 📫 How to reach me: https://bit.ly/3ZR8FrP
+https://camo.githubusercontent.com/fd400e9a9bc8b031eaade09e9d8772954d43c52200e717fc2f8ef5962a1e71cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e67253230426f6f742532302d2532333644423333462e7376673f267374796c653d666c6174266c6f676f3d737072696e67626f6f74266c6f676f436f6c6f723d677265656e
 <!--
 **edgar643/edgar643** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
