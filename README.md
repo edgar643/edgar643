@@ -24,8 +24,10 @@
 
 📘[Resume](https://github.com/edgar643/edgar643/files/10486104/CV.Edgar.Garcia.ENG.pdf)
 
-Skills:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=edgar643&show_icons=true&theme=dark)
 
+Skills:
+<br>
 - Java 11 (Expert)
 - Spring Boot & Spring Cloud (Proficient)
 - JavaScript (Proficient)
@@ -43,3 +45,4 @@ Skills:
 
 
 -->
+
