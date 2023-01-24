@@ -14,7 +14,7 @@
 </p>
  My name is Edgar José García Landaeta
  
--I'm Graduated Electronic Engineer :star2::star2::star2::star2::star2:
+-I'm Graduated Electronic Engineer :star::star::star::star::star:
 
 -Performing as Software Engineer :computer: in [Wizeline](https://www.wizeline.com/)
 
