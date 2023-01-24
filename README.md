@@ -26,14 +26,14 @@
 
 Skills:
 
-- Java 11
-- Spring Boot & Spring Cloud
-- JavaScript
-- Angular 2
-- C, C++, C#
-- SQL, No SQL
-- Docker
-- AWS
+- Java 11 (Expert)
+- Spring Boot & Spring Cloud (Proficient)
+- JavaScript (Proficient)
+- Angular 2 (Novice)
+- C, C++, C# (Novice)
+- SQL, No SQL (Proficient)
+- Docker (Proficient)
+- AWS (Novice)
 - Learning Python & Node JS
 
 
