@@ -27,7 +27,7 @@
 Skills:
 
 - Java 11
-- Spring Boot
+- Spring Boot & Spring Cloud
 - JavaScript
 - Angular 2
 - C, C++, C#
