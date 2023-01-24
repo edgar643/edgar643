@@ -2,7 +2,7 @@
 ![20221114_175159](https://user-images.githubusercontent.com/54609461/214206159-80fbaef6-73db-48da-87d8-bdf35fcadcb7.jpg)
 <p align="center">
   
-   <a href="" target="blank" style='margin-right:4px'>
+   <a href="https://www.youtube.com/channel/UCRQmogD06nB3yxXnZEV2iIw" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="midudev" height="28px" width="28px" />
   </a>
   <a href="https://instagram.com/edgar643" target="blank">
