@@ -1,4 +1,4 @@
-### Hi there👋 I'm Electronic Engineer Graduated 
+### Hi there👋 I'm Electronic Engineer Graduated
 -I'm performing as Software Enginneer :computer:
 📫 How to reach me: https://bit.ly/3ZR8FrP
 <!--
