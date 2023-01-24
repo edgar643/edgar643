@@ -1,6 +1,6 @@
 ### Hi there👋
-My name is Edgar José García Landaeta
-
+![20221114_175159](https://user-images.githubusercontent.com/54609461/214205518-2af09f36-1bf1-4f71-b224-4655d1f26d18.jpg)
+ My name is Edgar José García Landaeta
 -I'm Electronic Engineer Graduated
 
 -Performing as Software Engineer :computer: in [Wizeline](https://www.wizeline.com/)
