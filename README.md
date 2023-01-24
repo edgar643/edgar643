@@ -8,7 +8,7 @@
 
 📫 How to reach me: https://bit.ly/3ZR8FrP
 
-💬 Ask me about ![java-icon](https://user-images.githubusercontent.com/54609461/214207407-e0fe26b0-5a7a-426d-8ea2-a64e7f5a53fb.png)
+💬 Ask me about Java
 
 
 📘[Resume](https://github.com/edgar643/edgar643/files/10486104/CV.Edgar.Garcia.ENG.pdf)
