@@ -8,7 +8,7 @@
 
 📫 How to reach me: https://bit.ly/3ZR8FrP
 💬 Ask me about  
-📘book:[Resume](https://github.com/edgar643/edgar643/files/10486104/CV.Edgar.Garcia.ENG.pdf)
+📘[Resume](https://github.com/edgar643/edgar643/files/10486104/CV.Edgar.Garcia.ENG.pdf)
 
 
 <!--
