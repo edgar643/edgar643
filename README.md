@@ -1,5 +1,5 @@
 ### Hi there👋
-![20221114_175159](https://user-images.githubusercontent.com/54609461/214205518-2af09f36-1bf1-4f71-b224-4655d1f26d18.jpg)
+![20221114_175159](https://user-images.githubusercontent.com/54609461/214206159-80fbaef6-73db-48da-87d8-bdf35fcadcb7.jpg)
  My name is Edgar José García Landaeta
 -I'm Graduated Electronic Engineer :star2::star2::star2::star2::star2:
 
