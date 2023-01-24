@@ -31,7 +31,7 @@ Skills:
 - JavaScript (Proficient)
 - Angular 2 (Proficient)
 - HTML & CCS (Proficient)
-- C, C++, C# (Novice)
+- C, C++, C# (Proficient)
 - SQL, No SQL (Proficient)
 - Docker (Proficient)
 - AWS (Novice)
