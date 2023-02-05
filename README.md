@@ -39,6 +39,8 @@ Skills:
 - AWS (Novice)
 - Swift (Novice) 
 - Android Studio (Proficient) 
+- Matlab & Scilab
+- Microchip & Atmel micrcontrollers programming skills
 - Learning Python & Node JS
 <!--
 **edgar643/edgar643** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
