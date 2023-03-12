@@ -42,7 +42,7 @@ Skills:
 - Matlab & Scilab
 - Microchip & Atmel microntrollers programming skills
 - Kafka & Active MQ Brokers
-- Learning Python & Node JS
+- Learning  :snake: Python & Node JS
 <!--
 **edgar643/edgar643** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
