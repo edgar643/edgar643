@@ -40,7 +40,7 @@ Skills:
 - Swift (Novice) 
 - Android Studio (Proficient) 
 - Matlab & Scilab
-- Microchip & Atmel micrcontrollers programming skills
+- Microchip & Atmel microntrollers programming skills
 - Kafka & Active MQ Brokers
 - Learning Python & Node JS
 <!--
