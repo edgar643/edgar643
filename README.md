@@ -39,12 +39,12 @@ Skills:
 - AWS (Novice)
 - Swift (Novice) 
 - Android Studio (Proficient) 
-- Matlab & Scilab
-- Microchip & Atmel microntrollers programming skills
-- Kafka & Active MQ Brokers
-- Learning  :snake: Python & Node JS
-- Grafana & Jeager 
-- OpenTelemetry
+- Matlab & Scilab (Proficient) 
+- Microchip & Atmel microntrollers programming skills (Expert)
+- Kafka & Active MQ Brokers (Proficient)
+- Learning  :snake: Python & Node JS (Novice)
+- Grafana & Jeager (Proficient) 
+- OpenTelemetry (Proficient) 
 <!--
 **edgar643/edgar643** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
