@@ -43,6 +43,8 @@ Skills:
 - Microchip & Atmel microntrollers programming skills
 - Kafka & Active MQ Brokers
 - Learning  :snake: Python & Node JS
+- Grafana & Jeager 
+- OpenTelemetry
 <!--
 **edgar643/edgar643** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
