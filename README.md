@@ -31,6 +31,7 @@ Skills:
 - Java 11 (Expert)
 - Spring Boot & Spring Cloud (Proficient)
 - Micronaut (Novice)
+- VertX (Novice)
 - JavaScript (Proficient)
 - Angular 2 (Proficient)
 - HTML & CCS (Proficient)
