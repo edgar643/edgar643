@@ -46,7 +46,8 @@ Skills:
 - Kafka & Active MQ Brokers (Proficient)
 - Learning  :snake: Python & Node JS (Novice)
 - Grafana & Jeager (Proficient) 
-- OpenTelemetry (Proficient) 
+- OpenTelemetry (Proficient)
+- Programing Logic Controllers like Rockwell, Siemens, LS Industial System (Proficient)
 <!--
 **edgar643/edgar643** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
