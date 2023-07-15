@@ -1,5 +1,5 @@
 ### Hi there👋
-![20221114_175159]([https://user-images.githubusercontent.com/54609461/214206159-80fbaef6-73db-48da-87d8-bdf35fcadcb7.jpg](https://photos.app.goo.gl/Xacdn2Nj1WpCWZZk6))
+![20221114_175159](https://user-images.githubusercontent.com/54609461/214206159-80fbaef6-73db-48da-87d8-bdf35fcadcb7.jpg](https://photos.app.goo.gl/Xacdn2Nj1WpCWZZk6))
 <p align="center">
   
    <a href="https://www.youtube.com/channel/UCRQmogD06nB3yxXnZEV2iIw" target="blank" style='margin-right:4px'>
