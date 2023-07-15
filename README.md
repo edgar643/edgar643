@@ -29,7 +29,6 @@ This is the place where Magic happens
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="28px" width="28px" />
   </a>
 </p>
-
 Skills:
 <br>
 - Java 11 (Expert)
