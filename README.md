@@ -27,7 +27,6 @@ This is the place where Magic happens
   </a>
 </p>
 
-
 Skills:
 <br>
 - Java 11 (Expert)
