@@ -1,5 +1,6 @@
 ### Hi there👋
-![20221114_175159](https://user-images.githubusercontent.com/54609461/214206159-80fbaef6-73db-48da-87d8-bdf35fcadcb7.jpg](https://photos.app.goo.gl/Xacdn2Nj1WpCWZZk6))
+![20230627_232403](https://github.com/edgar643/edgar643/assets/54609461/e0a7897d-014c-4717-944b-4146ad9cfc8e)
+
 <p align="center">
   
    <a href="https://www.youtube.com/channel/UCRQmogD06nB3yxXnZEV2iIw" target="blank" style='margin-right:4px'>
