@@ -6,7 +6,7 @@ My name is Edgar José García Landaeta
 
 -Performing as Software Engineer :computer: in [Wizeline](https://www.wizeline.com/)
 
-📫 How to reach me: [Here](https://bit.ly/3ZR8FrP)
+📫 How to reach me -> [Here](https://bit.ly/3ZR8FrP)
 
 💬 Ask me about Java
 
