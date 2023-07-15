@@ -1,8 +1,7 @@
 ### Hi there👋
 ![20230627_232403](https://github.com/edgar643/edgar643/assets/54609461/e0a7897d-014c-4717-944b-4146ad9cfc8e)
 <p align="center">
-  
-   <a href="https://www.youtube.com/channel/UCRQmogD06nB3yxXnZEV2iIw" target="blank" style='margin-right:4px'>
+     <a href="https://www.youtube.com/channel/UCRQmogD06nB3yxXnZEV2iIw" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="midudev" height="28px" width="28px" />
   </a>
   <a href="https://instagram.com/edgar643" target="blank">
