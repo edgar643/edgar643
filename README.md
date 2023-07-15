@@ -9,6 +9,7 @@
 💬 Ask me about Java
 
 📘[Resume](https://github.com/edgar643/edgar643/files/10486104/CV.Edgar.Garcia.ENG.pdf)
+<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=edgar643&show_icons=true&theme=dark)
 <br>
 This is the place where Magic happens
