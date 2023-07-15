@@ -14,8 +14,9 @@
  My name is Edgar José García Landaeta
  
 -I'm Graduated Electronic Engineer :star::star::star::star::star:
+![20230624_134826](https://github.com/edgar643/edgar643/assets/54609461/87a995fc-d2df-40f1-80d2-5da9bea9d8b0)
 
--Performing as Software Engineer :computer: in [Wizeline](https://www.wizeline.com/)
+-Performing as Software Engineer :computer: in [Wizeline](https://www.wizeline.com/) 
 
 📫 How to reach me: https://bit.ly/3ZR8FrP
 
