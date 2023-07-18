@@ -23,7 +23,7 @@ This is the place where Magic happens
      <a href="https://www.youtube.com/channel/UCRQmogD06nB3yxXnZEV2iIw" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="midudev" height="28px" width="28px" />
   </a>
-  <a href="https://instagram.com/edgar643" target="blank">
+  <a href="https://instagram.com/edgar_garcia643" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="28px" width="28px" />
   </a>
   <a href="" target="blank">
