@@ -15,7 +15,7 @@ My name is Edgar José García Landaeta
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=edgar643&show_icons=true&theme=dark)
 
-This is the place where Magic happens
+This is the place where Magic happens...
 
 ![20230627_232403](https://github.com/edgar643/edgar643/assets/54609461/e0a7897d-014c-4717-944b-4146ad9cfc8e)
 <br>
