@@ -10,7 +10,9 @@ My name is Edgar José García Landaeta
 📫 How to reach me -> [Here](https://bit.ly/3ZR8FrP)
 
 💬 Ask me about Java
-
+ <div>
+   <a href="https://www.codewars.com/users/edgar643"><img src="https://www.codewars.com/users/edgar643/badges/small">
+ </div>
 📘[Resume](https://github.com/edgar643/edgar643/files/10486104/CV.Edgar.Garcia.ENG.pdf)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=edgar643&show_icons=true&theme=dark)
