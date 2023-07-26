@@ -47,7 +47,7 @@ Skills:
 - Swift (Novice) 
 - Android Studio (Proficient) 
 - Matlab & Scilab (Proficient) 
-- Microchip & Atmel Microntrollers programming skills (Expert)
+- Microchip, Atmel Arduino & Rasperry Pi Microntrollers programming skills (Expert)
 - Kafka & Active MQ Brokers (Proficient)
 - Learning  :snake: Python & Node JS (Novice)
 - Grafana & Jeager (Proficient) 
