@@ -15,7 +15,7 @@ My name is Edgar José García Landaeta
    <a href="https://www.codewars.com/users/edgar643"><img src="https://www.codewars.com/users/edgar643/badges/small">
  </div>
  
-   <img src="= https://www.hackerrank.com/certificates/iframe/3a5ae6bcb081">
+   <a href="https://www.codewars.com/users/edgar643"><img src="= https://www.hackerrank.com/certificates/iframe/3a5ae6bcb081">
     
 📘[Resume](https://github.com/edgar643/edgar643/files/10486104/CV.Edgar.Garcia.ENG.pdf)
 
