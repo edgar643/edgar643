@@ -36,11 +36,11 @@ This is the place where Magic happens...
 </p>
 Skills:
 <br>
-- Java 11 & 17 (Expert)
-- Spring Boot & Spring Cloud (Proficient)
-- Micronaut (Novice)
-- VertX (Novice)
-- JavaScript (Proficient)
+- Java 11 & 17 (Expert) <br>
+- Spring Boot & Spring Cloud (Proficient)<br>
+- Micronaut (Novice)<br>
+- VertX (Novice)<br>
+- JavaScript (Proficient)<br>
 - Angular 2 (Proficient)
 - HTML & CCS (Proficient)
 - C, C++, C# (Proficient)
