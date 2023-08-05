@@ -41,20 +41,20 @@ Skills:
 - Micronaut (Novice)<br>
 - VertX (Novice)<br>
 - JavaScript (Proficient)<br>
-- Angular 2 (Proficient)
-- HTML & CCS (Proficient)
-- C, C++, C# (Proficient)
-- SQL, No SQL (Proficient)
-- Docker (Proficient)
-- AWS (Novice)
-- Swift (Novice) 
-- Android Studio (Proficient) 
-- Matlab & Scilab (Proficient) 
-- Microchip, Atmel Arduino & Rasperry Pi Microntrollers programming skills (Expert)
-- Kafka & Active MQ Brokers (Proficient)
-- Learning  :snake: Python & Node JS (Novice)
-- Grafana & Jeager (Proficient) 
-- OpenTelemetry (Proficient)
-- Apache Camel (Novice)
-- Programing Logic Controllers like Rockwell, Siemens, LS Industial System (Proficient)
+- Angular 2 (Proficient)<br>
+- HTML & CCS (Proficient)<br>
+- C, C++, C# (Proficient)<br>
+- SQL, No SQL (Proficient)<br>
+- Docker (Proficient)<br>
+- AWS (Novice)<br>
+- Swift (Novice) <br>
+- Android Studio (Proficient) <br>
+- Matlab & Scilab (Proficient) <br>
+- Microchip, Atmel Arduino & Rasperry Pi Microntrollers programming skills (Expert)<br>
+- Kafka & Active MQ Brokers (Proficient)<br>
+- Learning  :snake: Python & Node JS (Novice)<br>
+- Grafana & Jeager (Proficient) <br>
+- OpenTelemetry (Proficient)<br>
+- Apache Camel (Novice)<br>
+- Programing Logic Controllers like Rockwell, Siemens, LS Industial System (Proficient)<br>
 <!--**edgar643/edgar643** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
