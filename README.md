@@ -44,7 +44,7 @@ Skills:
 - Angular 2 (Proficient)<br>
 - HTML & CCS (Proficient)<br>
 - C, C++, C# (Proficient)<br>
-- SQL, No SQL (Proficient)<br>
+- SQL, No SQL (Mongo Dynamo DB) (Proficient)<br>
 - Docker (Proficient)<br>
 - AWS (Novice)<br>
 - Swift (Novice) <br>
