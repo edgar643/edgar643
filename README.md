@@ -56,6 +56,6 @@ Skills:
 - Grafana & Jeager (Proficient) <br>
 - OpenTelemetry (Proficient)<br>
 - Apache Camel (Novice)<br>
-- Jira Cloud
+- Jira Cloud<br>
 - Programing Logic Controllers like Rockwell, Siemens, LS Industial System (Proficient)<br>
 <!--**edgar643/edgar643** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
