@@ -38,7 +38,7 @@ Skills:
 <br>
 - Java 11 & 17 (Expert) <br>
 - Spring Boot & Spring Cloud (Proficient)<br>
-- Devops
+- Devops (Novice)<br>
 - Micronaut (Novice)<br>
 - VertX (Novice)<br>
 - JavaScript (Proficient)<br>
