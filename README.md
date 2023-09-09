@@ -59,7 +59,7 @@ Skills:
 - Apache Camel (Novice)<br>
 - Jira Cloud ☁️ <br>
 - Agile <br>
-- Jenkins & GitHub Actions<br>
+- Jenkins & GitHub Actions (Proficient)<br>
 - Programing Logic Controllers like Rockwell, Siemens, LS Industial System (Proficient)<br>
 <br>
 <!--**edgar643/edgar643** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
