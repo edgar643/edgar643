@@ -58,7 +58,7 @@ Skills:
 - OpenTelemetry (Proficient)<br>
 - Apache Camel (Novice)<br>
 - Jira Cloud ☁️ <br>
-- Agile <br>
+- Agile (Scrum, Kamban,XP)<br>
 - Jenkins & GitHub Actions (Proficient)<br>
 - Programing Logic Controllers like Rockwell, Siemens, LS Industial System (Proficient)<br>
 <br>
