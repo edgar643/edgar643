@@ -42,7 +42,7 @@ Skills:
 - Micronaut (Novice)<br>
 - VertX (Novice)<br>
 - JavaScript (Proficient)<br>
-- Angular 2 (Proficient)<br>
+- Angular 2 (Expert)<br>
 - HTML & CCS (Proficient)<br>
 - C, C++, C# (Proficient)<br>
 - SQL, No SQL (Mongo Dynamo DB) (Proficient)<br>
