@@ -10,7 +10,6 @@ My name is Edgar José García Landaeta
 📫 How to reach me -> [Here](https://bit.ly/3ZR8FrP)
 
 💬 Ask me about Java
-
  <div>
    <a href="https://www.codewars.com/users/edgar643"><img src="https://www.codewars.com/users/edgar643/badges/small">
  </div>
