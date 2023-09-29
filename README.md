@@ -36,14 +36,15 @@ This is the place where Magic happens...
 Skills:
 <br>
 - Java 11 & 17 (Expert) <br>
+- Python (Novice)
 - Spring Boot & Spring Cloud (Proficient)<br>
-- Devops (Novice)<br>
+- Devops (Proficient)<br>
 - Micronaut (Novice)<br>
 - VertX (Novice)<br>
 - JavaScript (Proficient)<br>
 - Angular 2 (Expert)<br>
 - HTML & CCS (Proficient)<br>
-- C, C++, C# (Proficient)<br>
+- C, C++, C# ()<br>
 - SQL, No SQL (Mongo Dynamo DB) (Proficient)<br>
 - Docker (Proficient)<br>
 - AWS (Novice)<br>
@@ -52,7 +53,7 @@ Skills:
 - Matlab & Scilab (Proficient) <br>
 - Microchip, Atmel Arduino & Rasperry Pi Microntrollers programming skills (Expert)<br>
 - Kafka & Active MQ Brokers (Proficient)<br>
-- Learning  :snake: Python & Node JS (Novice)<br>
+- Learning  : Node JS (Novice)<br>
 - Grafana & Jeager (Proficient) <br>
 - OpenTelemetry (Proficient)<br>
 - Apache Camel (Novice)<br>
