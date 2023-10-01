@@ -56,7 +56,7 @@ Skills:
 - Learning  : Node JS (Novice)<br>
 - Grafana & Jeager (Proficient) <br>
 - OpenTelemetry (Proficient)<br>
-- Apache Camel (Novice)<br>
+- Apache Camel (Novice) <br>
 - Jira Cloud ☁️ <br>
 - Agile (Scrum, Kanban, XP)<br>
 - Jenkins & GitHub Actions (Proficient)<br>
