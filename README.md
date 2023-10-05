@@ -50,7 +50,7 @@ Skills:
 - AWS (Novice)<br>
 - Swift (Novice) <br>
 - Android Studio (Proficient) <br>
-- Matlab & Scilab (Proficient) <br>
+- Matlab & Scilab (Proficient)<br>
 - Microchip, Atmel Arduino & Rasperry Pi Microntrollers programming skills (Expert)<br>
 - Kafka & Active MQ Brokers (Proficient)<br>
 - Learning  : Node JS (Novice)<br>
