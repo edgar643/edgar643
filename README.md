@@ -36,7 +36,7 @@ This is the place where Magic happens...
 Skills:
 <br>
 - Java 11 & 17 (Expert) <br>
-- Python (Novice)
+- Python (Proficient)
 - Spring Boot & Spring Cloud (Proficient)<br>
 - Devops (Proficient)<br>
 - Micronaut (Novice)<br>
