@@ -38,6 +38,7 @@ Skills:
 - Java 11 & 17 (Expert) <br>
 - Python (Proficient)
 - Spring Boot & Spring Cloud (Proficient)<br>
+- Nest Js (Proficient)<br>
 - Devops (Proficient)<br>
 - Micronaut (Novice)<br>
 - VertX (Novice)<br>
