@@ -53,7 +53,7 @@ Skills:
 - Android Studio (Proficient) <br>
 - Matlab & Scilab (Proficient)<br>
 - Microchip, Atmel Arduino & Rasperry Pi Microntrollers programming skills (Expert)<br>
-- Kafka & Active MQ Brokers (Proficient)<br>
+- Kafka & Active/Rabbit MQ Broker (Proficient)<br>
 - Learning  : Node JS (Novice)<br>
 - Grafana & Jeager (Proficient) <br>
 - OpenTelemetry (Proficient)<br>
