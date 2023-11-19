@@ -48,7 +48,7 @@ Skills:
 - C, C++, C# (Expert)<br>
 - SQL, No SQL (Mongo Dynamo DB) (Proficient)<br>
 - Docker (Proficient)<br>
-- AWS (Novice)<br>
+- AWS (Proficient)<br>
 - Swift (Novice) <br>
 - Android Studio (Proficient) <br>
 - Matlab & Scilab (Proficient)<br>
