@@ -58,7 +58,7 @@ Skills:
 - Grafana & Jeager (Proficient) <br>
 - OpenTelemetry (Proficient)<br>
 - Apache Camel (Novice) <br>
-- Jira Cloud ☁️ <br>
+- Jira Cloud & Lucidchart ☁️ <br>
 - Agile (Scrum, Kanban, XP)<br>
 - Jenkins & GitHub Actions (Proficient)<br>
 - Programing Logic Controllers like Rockwell, Siemens, LS Industial System (Proficient)<br>
