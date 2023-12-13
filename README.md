@@ -44,7 +44,7 @@ Skills:
 - VertX (Novice)<br>
 - JavaScript (Proficient)<br>
 - Angular 2 (Expert)<br>
-- HTML CCS & SCSS (Proficient)<br>
+- HTML Bootstrap CCS & SCSS (Proficient)<br>
 - C, C++, C# (Expert)<br>
 - SQL, No SQL (Mongo Dynamo DB) (Proficient)<br>
 - Docker (Proficient)<br>
@@ -55,7 +55,7 @@ Skills:
 - Microchip, Atmel Arduino & Rasperry Pi Microntrollers programming skills (Expert)<br>
 - Kafka & Active/Rabbit MQ Broker (Proficient)<br>
 - Learning  : Node JS (Novice)<br>
-- Grafana & Jeager (Proficient) <br>
+- Grafana & Jeager (Proficient)<br>
 - OpenTelemetry (Proficient)<br>
 - Apache Camel (Novice) <br>
 - Jira Cloud & Lucidchart ☁️ <br>
