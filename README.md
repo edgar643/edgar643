@@ -44,7 +44,7 @@ Skills:
 - VertX (Novice)<br>
 - JavaScript (Proficient)<br>
 - Angular 2 (Expert)<br>
-- HTML Bootstrap CCS & SCSS (Proficient)<br>
+- HTML Ng-Bootstrap CCS & SCSS (Proficient)<br>
 - C, C++, C# (Expert)<br>
 - SQL, No SQL (Mongo Dynamo DB) (Proficient)<br>
 - Docker (Proficient)<br>
