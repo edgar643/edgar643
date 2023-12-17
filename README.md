@@ -54,7 +54,6 @@ Skills:
 - Swift (Novice) <br>
 - Android Studio (Proficient) <br>
 - Matlab & Scilab (Proficient)<br>
-- Microchip, Atmel Arduino & Rasperry Pi Microntrollers programming skills (Expert)<br>
 - Kafka & Active/Rabbit MQ Broker (Proficient)<br>
 - Learning  : Node JS (Novice)<br>
 - Grafana & Jeager (Proficient)<br>
@@ -64,5 +63,7 @@ Skills:
 - Agile (Scrum, Kanban, XP)<br>
 - Jenkins & GitHub Actions (Proficient)<br>
 - Programing Logic Controllers like Rockwell, Siemens, LS Industial System (Proficient)<br>
+- Microchip, Atmel Arduino & Rasperry Pi Microntrollers programming skills (Expert)<br>
+
 <br>
 <!--**edgar643/edgar643** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
