@@ -1,6 +1,6 @@
 ### Hi there👋
 
-My name is Edgar José García Landaeta I'm a proactive, energetic and competent Software Engineer. I display excellent analytical and problem-solving skills, and capable of working independently or as part of a team. I have over 7 years of experience with Java. I started programing during his professional studies in electronic engineering in Venezuela. His career has been oriented in Backend Java WebApps using Java SE, Java EE and MVC Frameworks as Springboot, Next JS and others under Agiles Methodology.
+My name is Edgar José García Landaeta I'm a proactive, energetic and competent Software Engineer. I display excellent analytical and problem-solving skills, and capable of working independently or as part of a team. I have over 7 years of experience with Java. I started programing during his professional studies in electronic engineering in Venezuela. His career has been oriented in Backend Java WebApps using Java SE, Java EE and MVC Frameworks as Springboot, Next JS and others under Agiles Methodologies.
 
 ![20230624_134826](https://github.com/edgar643/edgar643/assets/54609461/af15e5f3-2960-41ad-8963-c13d818e02d5) <br>
 -I'm Graduated Electronic Engineer :star::star::star::star::star: <br>
