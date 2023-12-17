@@ -48,8 +48,8 @@ Skills:
 - HTML Ng-Bootstrap CCS & SCSS (Proficient)<br>
 - C, C++, C# (Expert)<br>
 - SQL, No SQL (Mongo Dynamo DB) (Proficient)<br> 
-- Hibernate
-- Prisma (Advanced)
+- Hibernate<br> 
+- Prisma (Advanced)<br> 
 - Docker (Proficient)<br>
 - AWS (Proficient)<br>
 - Swift (Novice) <br>
