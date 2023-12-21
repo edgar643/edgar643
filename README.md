@@ -51,6 +51,7 @@ Skills:
 - Hibernate (Proficient)<br> 
 - Prisma (Advanced)<br> 
 - Docker (Proficient)<br>
+_ Kubernates (Novice)
 - AWS (Proficient)<br>
 - Swift (Novice) <br>
 - Android Studio (Proficient) <br>
