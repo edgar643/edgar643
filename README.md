@@ -63,7 +63,7 @@ _ Kubernates (Novice)
 - Apache Camel (Novice) <br>
 - Jira Cloud & Lucidchart ☁️ <br>
 - Agile (Scrum, Kanban, XP)<br>
-- Jenkins & GitHub Actions (Proficient)<br>
+- CI-CD:Jenkins & GitHub Actions (Proficient)<br>
 - Programing Logic Controllers like Rockwell, Siemens, LS Industial System (Proficient)<br>
 - Microchip, Atmel Arduino & Rasperry Pi Microntrollers programming skills (Expert)<br>
 
