@@ -6,7 +6,7 @@ My name is Edgar José García Landaeta I'm a proactive, energetic and competent
 -I'm Graduated Electronic Engineer :star::star::star::star::star: <br>
 -In Progress Specialization in Software Development:⏲️
 
--Performing as Software Engineer III :computer: in [Wizeline](https://www.wizeline.com/)
+-Performing as Semi Software Engineer :computer: in [Wizeline](https://www.wizeline.com/)
 
 📫 How to reach me -> [Here](https://bit.ly/3ZR8FrP)
 
