@@ -8,7 +8,7 @@ My name is Edgar José García Landaeta I'm a proactive, energetic and competent
 
 -Performing as Semi Software Engineer :computer: in [Wizeline](https://www.wizeline.com/)
 
-📫 How to reach me -> [Here](https://bit.ly/3ZR8FrP)
+📫 How to reach me -> [Here](https://www.linkedin.com/in/ejgarcial/)
 
 💬 Ask me about Java
  <div>
