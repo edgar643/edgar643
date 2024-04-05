@@ -6,7 +6,7 @@ My name is Edgar José García Landaeta I'm a proactive, energetic and competent
 -I'm Graduated Electronic Engineer :star::star::star::star::star: <br>
 -In Progress Specialization in Software Development:⏲️
 
--Performing as Semi Software Engineer :computer: in [Globant]((https://www.globant.com/))
+-Performing as Semi Software Engineer :computer: in [Globant](https://www.globant.com/)
 
 📫 How to reach me -> [Here](https://www.linkedin.com/in/ejgarcial/)
 
