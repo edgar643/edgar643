@@ -4,7 +4,7 @@ My name is Edgar José García Landaeta I'm a proactive, energetic and competent
 
 ![20230624_134826](https://github.com/edgar643/edgar643/assets/54609461/af15e5f3-2960-41ad-8963-c13d818e02d5) <br>
 -I'm Graduated Electronic Engineer :star::star::star::star::star: <br>
--Graduated Specialization in Software Development::star
+-Graduated Specialization in Software Development :star:<br>
 
 -Performing as Semi Software Engineer :computer: in [Globant](https://www.globant.com/)
 
