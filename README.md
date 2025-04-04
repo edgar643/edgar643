@@ -66,6 +66,5 @@ _ Kubernates (Novice)
 - CI-CD:Jenkins & GitHub Actions (Proficient)<br>
 - Programing Logic Controllers like Rockwell, Siemens, LS Industial System (Proficient)<br>
 - Microchip, Atmel Arduino & Rasperry Pi Microntrollers programming skills (Expert)<br>
-
 <br>
 <!--**edgar643/edgar643** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
