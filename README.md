@@ -52,6 +52,7 @@ Skills:
 - Prisma (Advanced)<br> 
 - Docker (Proficient)<br>
 _ Kubernates (Novice)
+- Docker
 - AWS (Proficient)<br>
 - Swift (Novice) <br>
 - Android Studio (Proficient) <br>
