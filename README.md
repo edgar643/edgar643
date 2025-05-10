@@ -37,7 +37,7 @@ This is the place where Magic happens...
 Skills:
 <br>
 - Java 11 & 17 (Expert) <br>
-- Python (Proficient)
+- Python (Proficient)<br>
 - Spring Boot & Spring Cloud (Proficient)<br>
 - Nest JS (Proficient)<br>
 - Devops (Proficient)<br>
